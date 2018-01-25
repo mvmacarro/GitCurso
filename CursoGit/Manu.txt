@@ -1,0 +1,8 @@
+Git
+GitHub Desktop
+
+git commit -am "TEIOND" .  __> Te junta el git add . y el git commit en uno
+
+git commit --ammend
+
+git config --global alias.lg "turutu"
